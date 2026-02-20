@@ -49,6 +49,10 @@ IMPORTANTE: No se pueden mostrar datos con un lapso mayor a 7 dias y máximo 20 
 
 response <- GET( 'https://www.cenace.gob.mx/Docs/01_MECP/CatalogoNodosP/2024/Cata%CC%81logo%20NodosP%20Sistema%20Ele%CC%81ctrico%20Nacional%20(v2024-01-24)%20.xlsx' )
 
+#url <- "https://www.cenace.gob.mx/Docs/01_MECP/CatalogoNodosP/2024/Cata%CC%81logo%20NodosP%20Sistema%20Ele%CC%81ctrico%20Nacional%20(v2024-01-24)%20.xlsx"
+
+#response <- GET(url, config = config(ssl_verifypeer = 0L, ssl_verifyhost = 0L))
+
 temp_file <- tempfile(fileext = ".xlsx")
 
 writeBin(content(response, "raw"), temp_file)
@@ -93,6 +97,8 @@ for( Nodo in Datos_Nodos$CLAVE ){
   
   # Realizar la solicitud GET al servicio web
   respuesta <- GET(url)
+  
+  #respuesta <- GET(url, config = config(ssl_verifypeer = 0L, ssl_verifyhost = 0L))
   
   # Convertir el JSON en un DataFrame
   datos <- fromJSON(content(respuesta, "text"), flatten = TRUE)

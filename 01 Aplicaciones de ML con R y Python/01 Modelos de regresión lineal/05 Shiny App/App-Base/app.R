@@ -35,7 +35,7 @@ library(quantmod)
 ui <- fluidPage(
   
   # App title
-  titlePanel("Precios de acciones de Oracle, AMD, IBM y Nvidia"),
+  titlePanel("Precios de acciones de Oracle, AMD, IBM y Nvidia -- Prueba"),
   
   # Otros elementos
   
