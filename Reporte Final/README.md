@@ -1,0 +1,31 @@
+# Reporte final del Módulo VI
+
+## Objetivo
+
+**Evaluar los conocimientos adquiridos a lo largo del Módulo VI, así como la capacidad de reflexión y aplicación de los temas abordados.**
+
+## Instrucciones
+
+De manera individual, deberás asistir a todas las sesiones del Módulo VI o, en su caso, revisar las grabaciones correspondientes. Con base en ello, elabora un ensayo breve con una extensión máxima de 5 páginas, en el que desarrolles una reflexión en torno a los siguientes aspectos:
+
+A. Las principales lecciones aprendidas durante el módulo.
+
+B. La manera en que aplicarías las herramientas, enfoques o conceptos presentados por las y los expertos en tu ámbito profesional y/o académico.
+
+## Criterios de evaluación
+
+El ensayo será evaluado con base en los siguientes criterios:
+
+I. Claridad, coherencia y estructura del texto.
+
+II. Profundidad del análisis y capacidad de reflexión.
+
+III. Vinculación de las ideas expuestas con los temas abordados en las sesiones.
+
+## Fecha de entrega
+
+2 de mayo de 2026
+
+## Modalidad
+
+Actividad individual
