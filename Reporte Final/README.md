@@ -29,3 +29,6 @@ III. Vinculación de las ideas expuestas con los temas abordados en las sesiones
 ## Modalidad
 
 Actividad individual
+
+Enviar documento en PDF a: benjov@ciencias.unam.mx
+
